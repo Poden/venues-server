@@ -1,0 +1,1 @@
+TRUNCATE create_venues;
